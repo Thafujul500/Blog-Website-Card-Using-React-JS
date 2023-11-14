@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card{
+    width: 18rem;
+}
+img{
+    width: 290px;
+    height: 160px;
+}
+.fixed{
+    position: sticky !important;
+    top: 0;
+    left: 0;
+
+}
+.custom{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* Pagination */
+
+.pagination{
+    display: flex;
+    justify-content: center;
+
+}
+.pageItem{
+    margin: 5px;
+    font-size: 18px;
+}
+.pageLink{
+    text-decoration: none;
+    color: white;
+}
