@@ -5,6 +5,7 @@ const Contract = () => {
     return (
         <div className='container'>
             <Navber/>
+
             <h1>This is Contract Page.</h1>
             
         </div>

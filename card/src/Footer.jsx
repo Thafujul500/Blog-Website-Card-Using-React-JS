@@ -7,7 +7,7 @@ const Footer = () => {
                 <li className='pageItem btn btn-primary btn-outline-danger'><a className='pageLink' href="">1</a></li>
                 <li className='pageItem btn btn-primary btn-outline-danger'><a className='pageLink' href="">2</a></li>
                 <li className='pageItem btn btn-primary btn-outline-danger'><a className='pageLink' href="">3</a></li>
-                <li className='pageItem btn btn-primary btn-outline-danger`'><a className='pageLink' href="">4</a></li>
+                <li className='pageItem btn btn-primary btn-outline-danger'><a className='pageLink' href="">4</a></li>
             </ul>
             
         </div>
