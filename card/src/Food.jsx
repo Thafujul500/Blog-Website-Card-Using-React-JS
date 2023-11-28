@@ -3,7 +3,6 @@ import React from 'react';
 const Food = (props) => {
     return (
         <div>
-            <div>
             <div class="card">
                 <img src={props.img} class="card-img-top" alt="sorry"/>
                 <div class="card-body">
@@ -14,7 +13,6 @@ const Food = (props) => {
             </div>
         </div>
             
-        </div>
     );
 };
 
