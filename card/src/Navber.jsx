@@ -23,13 +23,13 @@ const Navber = () => {
 
               <li class="nav-item">
 
-                <Link class='nav-link active' to="/"> Home </Link>
+                <Link to="/" class='nav-link active' > Home </Link>
 
               </li>
 
               <li class="nav-item">
 
-                <Link class="nav-link" to='/about'>About</Link>
+                <Link to='/about' class="nav-link" >About</Link>
 
               </li>
 
@@ -41,7 +41,7 @@ const Navber = () => {
 
               <li class="nav-item">
 
-                <Link class="nav-link" to="/contract">Contract</Link>
+                <Link to="/contract" class="nav-link" >Contract</Link>
 
               </li>
 
